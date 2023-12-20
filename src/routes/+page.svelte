@@ -70,5 +70,4 @@
 
     <div class="main_cont">
 
-      <HomeCards />
     </div>

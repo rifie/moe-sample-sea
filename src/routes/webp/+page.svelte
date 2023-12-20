@@ -69,5 +69,5 @@
 
     <div class="main_cont">
 
-      <HomeCards />
+     WebP here
     </div>
