@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <title>Apple Watch Black</title>
+        <image>https://moe-sample-sea.vercel.app/apple/a1.jpg</image>
+        <price>125</price>
+    </product>
+    <product>
+        <title>iPad Mini</title>
+        <image>https://moe-sample-sea.vercel.app/apple/a2.jpg</image>
+        <price>110</price>
+    </product>
+    <product>
+        <title>Ipad Pro</title>
+        <image>https://moe-sample-sea.vercel.app/apple/a3.jpg</image>
+        <price>110</price>
+    </product>
+    <product>
+        <title>iPhone 15</title>
+        <image>https://moe-sample-sea.vercel.app/apple/a4.jpg</image>
+        <price>410</price>
+    </product>
+    <product>
+        <title>Apple Watch Red</title>
+        <image>https://moe-sample-sea.vercel.app/apple/a5.jpg</image>
+        <price>110</price>
+    </product>
+     <product>
+        <title>Apple Watch Broken</title>
+        <image>https://moe-sample-sea.vercel.app/apple/a6.jpg</image>
+        <price>490</price>
+    </product>
+</products>

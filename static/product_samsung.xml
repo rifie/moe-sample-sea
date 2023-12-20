@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <title>Samsung Computer Black</title>
+        <image>https://moe-sample-sea.vercel.app/samsung/s1.jpg</image>
+        <price>125</price>
+    </product>
+    <product>
+        <title>Samsung Flip</title>
+        <image>https://moe-sample-sea.vercel.app/samsung/s2.jpg</image>
+        <price>110</price>
+    </product>
+    <product>
+        <title>Samsung A6</title>
+        <image>https://moe-sample-sea.vercel.app/samsung/s3.jpg</image>
+        <price>110</price>
+    </product>
+    <product>
+        <title>Samsung Tab</title>
+        <image>https://moe-sample-sea.vercel.app/samsung/s4.jpg</image>
+        <price>410</price>
+    </product>
+    <product>
+        <title>Samsung Watch</title>
+        <image>https://moe-sample-sea.vercel.app/samsung/s5.jpg</image>
+        <price>110</price>
+    </product>
+     <product>
+        <title>Samsung Flip XX</title>
+        <image>https://moe-sample-sea.vercel.app/samsung/s6.jpg</image>
+        <price>490</price>
+    </product>
+</products>
