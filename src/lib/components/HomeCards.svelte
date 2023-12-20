@@ -181,13 +181,9 @@
  
   
     <div id="container">
-      <img id="heroimage" src="spin.gif" width="100">
-      <div id="buttons-prev">
-          <button id="previous" on:click={previous}>&lt;</button>
-      </div>
-      <div id="buttons-next">
-          <button id="next" on:click={next}>&gt;</button>
-      </div>
+      <img id="heroimage" src="https://moe-cards.vercel.app/spin.gif" width="100">
+    
+    
       <div id="select-container" class="select-container"></div>
     </div>
   </div>
