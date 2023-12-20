@@ -1,0 +1,36 @@
+{
+  "products": {
+    "product": [
+      {
+        "title": "Samsung Computer Black",
+        "image": "https://moe-sample-sea.vercel.app/samsung/s1.jpg",
+        "price": 125
+      },
+      {
+        "title": "Samsung Flip",
+        "image": "https://moe-sample-sea.vercel.app/samsung/s2.jpg",
+        "price": 110
+      },
+      {
+        "title": "Samsung A6",
+        "image": "https://moe-sample-sea.vercel.app/samsung/s3.jpg",
+        "price": 110
+      },
+      {
+        "title": "Samsung Tab",
+        "image": "https://moe-sample-sea.vercel.app/samsung/s4.jpg",
+        "price": 410
+      },
+      {
+        "title": "Samsung Watch",
+        "image": "https://moe-sample-sea.vercel.app/samsung/s5.jpg",
+        "price": 110
+      },
+      {
+        "title": "Samsung Flip XX",
+        "image": "https://moe-sample-sea.vercel.app/samsung/s6.jpg",
+        "price": 490
+      }
+    ]
+  }
+}
