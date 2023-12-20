@@ -17,7 +17,12 @@
             let len = cards.length;
             let n = 0;
             for (let i = 0; i < len; i++) {
-              if (cards[i]['templateData']['containers'][0]['widgets'][0]['type'] === "image") {
+                if (cards[i] && 
+    cards[i]['templateData'] && 
+    cards[i]['templateData']['containers'] && 
+    cards[i]['templateData']['containers'][0] && 
+    cards[i]['templateData']['containers'][0]['widgets'] && 
+    cards[i]['templateData']['containers'][0]['widgets'][0]) {
                 const img = cards[i]['templateData']['containers'][0]['widgets'][0]['content'];
                 const tit = (cards[i]['templateData']['containers'][0]['widgets'][1]['content']).replace(/<div>/, "");
                 const des = (cards[i]['templateData']['containers'][0]['widgets'][2]['content']).replace(/<div>/, "");
@@ -169,13 +174,11 @@
             
         }
 
-  .w800 { max-width: 800px; margin-top:auto; padding : 0 auto;}
+  .w800 { max-width: 800px; margin-top:100px; padding : 0 auto;}
   </style>
   
   <div class="container w800 mt-6">
-    <h1>Cards</h1>
-  
-    <h1>Promotion</h1>
+ 
   
     <div id="container">
       <img id="heroimage" src="spin.gif" width="100">
