@@ -13,7 +13,7 @@
           console.log('Interval Stopped');
           clearInterval(interval);
           document.getElementById("heroimage").style.display = "none";
-          let x = Moengage.cards.getCardsForCategory('Explore').then(function(cards) {
+          let x = Moengage.cards.getCardsForCategory('Promo').then(function(cards) {
             let len = cards.length;
             let n = 0;
             for (let i = 0; i < len; i++) {
