@@ -3,6 +3,7 @@
     import { onMount } from 'svelte';
 
     import { Alert } from 'flowbite-svelte';
+  import HomeCards from '$lib/components/HomeCards.svelte';
 
 
     let clicked = false;
@@ -19,6 +20,9 @@
       clicked = true;
       const uniqueId = Math.random().toString(36).substring(2, 10);
       Moengage.add_unique_user_id(uniqueId);
+
+      // refresh the page
+    location.reload();
 
     }
   }
@@ -59,3 +63,12 @@
     <p>You need to logout first</p>
 =      <Button color="secondary" data-bs-dismiss="modal">Close</Button>
     </Modal>
+
+
+
+
+
+    <div class="main_cont">
+
+      <HomeCards />
+    </div>
