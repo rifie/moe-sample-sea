@@ -8,15 +8,13 @@ import { Navbar, NavBrand, NavLi, NavUl, NavHamburger, Button, Input, Modal } fr
 
   // handle
 
- 
   function handleClick() {
     if (clicked) {
-      Modal.show('modal1');
+     
     } else {
       clicked = true;
       const uniqueId = Math.random().toString(36).substring(2, 10);
       Moengage.add_unique_user_id(uniqueId);
-
       // refresh the page
     location.reload();
 
@@ -25,7 +23,7 @@ import { Navbar, NavBrand, NavLi, NavUl, NavHamburger, Button, Input, Modal } fr
 
   function handleDestroyMoe() {
     if (clicked) {
-      Modal.show('modal1');
+     
     } else {
       clicked = true;
       Moengage.destroy_session();
