@@ -9,17 +9,14 @@ import { Navbar, NavBrand, NavLi, NavUl, NavHamburger, Button, Input, Modal } fr
   // handle
 
   function handleClick() {
-    if (clicked) {
-     
-    } else {
       clicked = true;
       const uniqueId = Math.random().toString(36).substring(2, 10);
       Moengage.add_unique_user_id(uniqueId);
-      // refresh the page
-    location.reload();
-
+      MoEngage.track_event("Login");
+      location.reload();
     }
-  }
+   
+  
 
   function handleDestroyMoe() {
     if (clicked) {
