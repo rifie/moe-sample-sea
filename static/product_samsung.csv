@@ -1,0 +1,25 @@
+id,link,title,image_link,price
+ab1, https://moe-sample-sea.vercel.app,Samsung Computer Black,https://moe-sample-sea.vercel.app/samsung/s1.jpg,125
+ab2, https://moe-sample-sea.vercel.app,Samsung Flip,https://moe-sample-sea.vercel.app/samsung/s2.jpg,110
+ab3, https://moe-sample-sea.vercel.app,Samsung A6,https://moe-sample-sea.vercel.app/samsung/s3.jpg,110
+ab4, https://moe-sample-sea.vercel.app,Samsung Tab,https://moe-sample-sea.vercel.app/samsung/s4.jpg,410
+ab5, https://moe-sample-sea.vercel.app,Samsung Watch,https://moe-sample-sea.vercel.app/samsung/s5.jpg,110
+ab6, https://moe-sample-sea.vercel.app,Samsung Flip XX,https://moe-sample-sea.vercel.app/samsung/s6.jpg,490
+ab7, https://moe-sample-sea.vercel.app,Apple Watch Black,https://moe-sample-sea.vercel.app/apple/a1.jpg,125
+ab8, https://moe-sample-sea.vercel.app,iPad Mini,https://moe-sample-sea.vercel.app/apple/a2.jpg,110
+ab9, https://moe-sample-sea.vercel.app,Ipad Pro,https://moe-sample-sea.vercel.app/apple/a3.jpg,110
+ab10, https://moe-sample-sea.vercel.app,iPhone 15,https://moe-sample-sea.vercel.app/apple/a4.jpg,410
+ab11, https://moe-sample-sea.vercel.app,Apple Watch Red,https://moe-sample-sea.vercel.app/apple/a5.jpg,110
+ab12, https://moe-sample-sea.vercel.app,Apple Watch Broken,https://moe-sample-sea.vercel.app/apple/a6.jpg,490
+ab13, https://moe-sample-sea.vercel.app,Samsung Computer Black,https://moe-sample-sea.vercel.app/samsung/s1.jpg,125
+ab14, https://moe-sample-sea.vercel.app,Samsung Flip,https://moe-sample-sea.vercel.app/samsung/s2.jpg,110
+ab15, https://moe-sample-sea.vercel.app,Samsung A6,https://moe-sample-sea.vercel.app/samsung/s3.jpg,110
+ab16, https://moe-sample-sea.vercel.app,Samsung Tab,https://moe-sample-sea.vercel.app/samsung/s4.jpg,410
+ab17, https://moe-sample-sea.vercel.app,Samsung Watch,https://moe-sample-sea.vercel.app/samsung/s5.jpg,110
+ab18, https://moe-sample-sea.vercel.app,Samsung Flip XX,https://moe-sample-sea.vercel.app/samsung/s6.jpg,490
+ab19, https://moe-sample-sea.vercel.app,Apple Watch Black,https://moe-sample-sea.vercel.app/apple/a1.jpg,125
+ab20, https://moe-sample-sea.vercel.app,iPad Mini,https://moe-sample-sea.vercel.app/apple/a2.jpg,110
+ab21, https://moe-sample-sea.vercel.app,Ipad Pro,https://moe-sample-sea.vercel.app/apple/a3.jpg,110
+ab22, https://moe-sample-sea.vercel.app,iPhone 15,https://moe-sample-sea.vercel.app/apple/a4.jpg,410
+ab23, https://moe-sample-sea.vercel.app,Apple Watch Red,https://moe-sample-sea.vercel.app/apple/a5.jpg,110
+ab24, https://moe-sample-sea.vercel.app,Apple Watch Broken,https://moe-sample-sea.vercel.app/apple/a6.jpg,490
