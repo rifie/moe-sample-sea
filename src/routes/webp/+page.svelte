@@ -1,6 +1,6 @@
 
 <script>
-    import { Navbar, NavBrand, NavLi, NavUl, NavHamburger, Button, Input, Modal } from 'flowbite-svelte';
+    import { Navbar, NavBrand, NavLi, NavUl, NavHamburger, Button, Input, Modal, Heading } from 'flowbite-svelte';
     import { onMount } from 'svelte';
 
     import { Alert } from 'flowbite-svelte';
