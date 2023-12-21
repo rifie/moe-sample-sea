@@ -46,6 +46,7 @@ declare module '$env/static/private' {
 	export const ZSH: string;
 	export const FIG_SET_PARENT_CHECK: string;
 	export const USER: string;
+	export const LS_COLORS: string;
 	export const COMMAND_MODE: string;
 	export const npm_config_globalconfig: string;
 	export const SSH_AUTH_SOCK: string;
@@ -144,6 +145,7 @@ declare module '$env/dynamic/private' {
 		ZSH: string;
 		FIG_SET_PARENT_CHECK: string;
 		USER: string;
+		LS_COLORS: string;
 		COMMAND_MODE: string;
 		npm_config_globalconfig: string;
 		SSH_AUTH_SOCK: string;
