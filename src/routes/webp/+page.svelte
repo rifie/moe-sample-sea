@@ -39,7 +39,11 @@
   
   </script>
   
-
+  <style>
+    .main_cont { margin :  80px auto; max-width: 880px;}
+  
+    .front-image { margin : auto; background-color: #c8c8c8; height : 300px;}
+  </style>
 
   
   <Navbar>
@@ -67,7 +71,18 @@
 
 
 
+
     <div class="main_cont">
 
-     WebP here
+      <!-- image banner -->
+
+      <div class="front-image">
+
+        <Heading tag="h4" class="text-center pt-2">Image here for all users</Heading>
+        <img src="https://www.rifie.com/images/calm-sea.jpg" />
+
+
+
+      </div>
+
     </div>
