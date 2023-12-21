@@ -48,7 +48,7 @@ import { Navbar, NavBrand, NavLi, NavUl, NavHamburger, Button, Input, Modal } fr
     <NavUl class="order-1">
       <NavLi href="/" active={true}>Home</NavLi>
       <NavLi href="/cards">Cards</NavLi>
-      <NavLi href="webp">WebP</NavLi>
+      <NavLi href="/webp">WebP</NavLi>
     </NavUl>
   </Navbar>
 
